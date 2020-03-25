@@ -1,0 +1,92 @@
+{
+  "PA": [
+    {
+      "date": "2020-03-06",
+      "positive": 2
+    },
+    {
+      "date": "2020-03-07",
+      "positive": 4
+    },
+    {
+      "date": "2020-03-08",
+      "positive": 6
+    },
+    {
+      "date": "2020-03-09",
+      "positive": 10
+    },
+    {
+      "date": "2020-03-10",
+      "positive": 12
+    },
+    {
+      "date": "2020-03-11",
+      "positive": 16
+    },
+    {
+      "date": "2020-03-12",
+      "positive": 22
+    },
+    {
+      "date": "2020-03-13",
+      "positive": 41
+    },
+    {
+      "date": "2020-03-14",
+      "positive": 47
+    },
+    {
+      "date": "20202-03-15",
+      "positive": 63
+    },
+    {
+      "date": "20202-03-16",
+      "positive": 76
+    },
+    {
+      "date": "20202-03-17",
+      "positive": 96
+    },
+    {
+      "date": "20202-03-18",
+      "negative": 1187,
+      "positive": 133
+    },
+    {
+      "date": "20202-03-19",
+      "negative": 1608,
+      "positive": 185
+    },
+    {
+      "date": "20202-03-20",
+      "negative": 2574,
+      "positive": 268,
+      "deaths": 1
+    },
+    {
+      "date": "20202-03-21",
+      "negative": 3766,
+      "positive": 371,
+      "deaths": 2
+    },
+    {
+      "date": "20202-03-22",
+      "negative": 4964,
+      "positive": 479,
+      "deaths": 2
+    },
+    {
+      "date": "2020-03-23",
+      "negative": 6595,
+      "positive": 644,
+      "deaths": 6
+    },
+    {
+      "date": "2020-03-24",
+      "negative": 8643,
+      "positive": 851,
+      "deaths": 7
+    }
+  ]
+}

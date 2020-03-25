@@ -1,0 +1,19 @@
+{
+  "name": "corona-scraper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Shaner",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cldr-data": "^36.0.0",
+    "globalize": "^1.4.3",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}

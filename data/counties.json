@@ -1,0 +1,1479 @@
+{
+  "PA": {
+    "​Adams": [
+      {
+        "date": "2020-03-19",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 5,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 6,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 6,
+        "deaths": 0
+      }
+    ],
+    "Allegheny": [
+      {
+        "date": "2020-03-14",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 5
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 7
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 11,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 16,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 28,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 31,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 40,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 48,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 58,
+        "deaths": 2
+      }
+    ],
+    "Beaver": [
+      {
+        "date": "2020-03-17",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 3,
+        "deaths": 0
+      }
+    ],
+    "​Berks": [
+      {
+        "date": "2020-03-18",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 5,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 7,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 13,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 14,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 16,
+        "deaths": 0
+      }
+    ],
+    "Bucks": [
+      {
+        "date": "2020-03-11",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-12",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 4
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 5
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 8
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 9,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 12,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 16,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 24,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 32,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 43,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 65,
+        "deaths": 0
+      }
+    ],
+    "​Butler": [
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 5,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 6,
+        "deaths": 0
+      }
+    ],
+    "​Cambria": [
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Centre": [
+      {
+        "date": "2020-03-20",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 7,
+        "deaths": 0
+      }
+    ],
+    "Chester": [
+      {
+        "date": "2020-03-13",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 4
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 9,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 10,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 17,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 19,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 23,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 40,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 40,
+        "deaths": 0
+      }
+    ],
+    "​Columbia": [
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Cumberland": [
+      {
+        "date": "2020-03-13",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 5
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 5
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 10
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 10,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 11,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 11,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 11,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 11,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 12,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 13,
+        "deaths": 0
+      }
+    ],
+    "​Dauphin": [
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 4,
+        "deaths": 0
+      }
+    ],
+    "Delaware": [
+      {
+        "date": "2020-03-06",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-07",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-08",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-09",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-10",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-11",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-12",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 6
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 6
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 7
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 7
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 9
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 14,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 14,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 23,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 33,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 43,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 54,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 84,
+        "deaths": 0
+      }
+    ],
+    "​Erie": [
+      {
+        "date": "2020-03-20",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 4,
+        "deaths": 0
+      }
+    ],
+    "​Fayette": [
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 2,
+        "deaths": 0
+      }
+    ],
+    "​Franklin": [
+      {
+        "date": "2020-03-20",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 3,
+        "deaths": 0
+      }
+    ],
+    "​Lackawanna": [
+      {
+        "date": "2020-03-18",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 5,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 6,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 7,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 15,
+        "deaths": 1
+      }
+    ],
+    "​Lancaster": [
+      {
+        "date": "2020-03-19",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 6,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 5,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 10,
+        "deaths": 0
+      }
+    ],
+    "​Lebanon": [
+      {
+        "date": "2020-03-19",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 3,
+        "deaths": 0
+      }
+    ],
+    "Lehigh": [
+      {
+        "date": "2020-03-15",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 13,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 19,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 25,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 27,
+        "deaths": 0
+      }
+    ],
+    "Luzerne": [
+      {
+        "date": "2020-03-15",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 6,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 7,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 10,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 21,
+        "deaths": 0
+      }
+    ],
+    "​Mercer": [
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 2,
+        "deaths": 0
+      }
+    ],
+    "Monroe": [
+      {
+        "date": "2020-03-09",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-10",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-11",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-12",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 6
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 8
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 8
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 7,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 15,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 19,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 25,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 31,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 43,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 45,
+        "deaths": 1
+      }
+    ],
+    "Montgomery": [
+      {
+        "date": "2020-03-07",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-08",
+        "cases": 4
+      },
+      {
+        "date": "2020-03-09",
+        "cases": 7
+      },
+      {
+        "date": "2020-03-10",
+        "cases": 8
+      },
+      {
+        "date": "2020-03-11",
+        "cases": 9
+      },
+      {
+        "date": "2020-03-12",
+        "cases": 13
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 18
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 20
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 24
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 30
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 32
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 42,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 47,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 59,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 71,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 87,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 129,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 144,
+        "deaths": 1
+      }
+    ],
+    "​Montour": [
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 3,
+        "deaths": 0
+      }
+    ],
+    "Northampton": [
+      {
+        "date": "2020-03-12",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 1,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 5,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 10,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 17,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 21,
+        "deaths": 1
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 23,
+        "deaths": 2
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 33,
+        "deaths": 2
+      }
+    ],
+    "Philadelphia": [
+      {
+        "date": "2020-03-10",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-11",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-12",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 3
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 4
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 6
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 8
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 10
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 17,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 33,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 42,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 69,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 91,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 128,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 177,
+        "deaths": 0
+      }
+    ],
+    "Pike": [
+      {
+        "date": "2020-03-12",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 4,
+        "deaths": 0
+      }
+    ],
+    "​Potter": [
+      {
+        "date": "2020-03-20",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Schuylkill": [
+      {
+        "date": "2020-03-22",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 5,
+        "deaths": 0
+      }
+    ],
+    "Washington": [
+      {
+        "date": "2020-03-13",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 2
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 5,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 7,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 7,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 9,
+        "deaths": 0
+      }
+    ],
+    "Wayne": [
+      {
+        "date": "2020-03-06",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-07",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-08",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-09",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-10",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-11",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-12",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-13",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-14",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-15",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-16",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-17",
+        "cases": 1
+      },
+      {
+        "date": "2020-03-18",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 1,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 3,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 4,
+        "deaths": 0
+      }
+    ],
+    "​Westmoreland": [
+      {
+        "date": "2020-03-19",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 4,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 6,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 11,
+        "deaths": 0
+      }
+    ],
+    "York": [
+      {
+        "date": "2020-03-18",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-19",
+        "cases": 2,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-20",
+        "cases": 6,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-21",
+        "cases": 9,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-22",
+        "cases": 10,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-23",
+        "cases": 10,
+        "deaths": 0
+      }
+    ],
+    "​Armstrong": [
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Bradford": [
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Carbon": [
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Clearfield": [
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Juniata": [
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​Somerset": [
+      {
+        "date": "2020-03-24",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "​York": [
+      {
+        "date": "2020-03-24",
+        "cases": 18,
+        "deaths": 0
+      }
+    ]
+  }
+}

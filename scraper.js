@@ -3,7 +3,7 @@ const fs = require('fs');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const _ = require('lodash');
-const moment = require('moment');
+const moment = require('moment-timezone');
 const Globalize = require('globalize');
 
 Globalize.load(
@@ -103,7 +103,7 @@ function formatCounties(data, date){
 
 async function runner() {
 	let { counties, testing } = await scrape();
-	let date = moment().format('YYYY-MM-DD');
+	let date = moment().tz("America/New_York").format('YYYY-MM-DD');
 	formatCounties(counties, date);
 	formatTesting(testing, date);
 }

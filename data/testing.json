@@ -87,6 +87,12 @@
       "negative": 8643,
       "positive": 851,
       "deaths": 7
+    },
+    {
+      "date": "2020-03-25",
+      "negative": 11193,
+      "positive": 1127,
+      "deaths": 11
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "PA": {
-    "​Adams": [
+    "Adams": [
       {
         "date": "2020-03-19",
         "cases": 1,
@@ -141,7 +141,7 @@
         "deaths": 0
       }
     ],
-    "​Berks": [
+    "Berks": [
       {
         "date": "2020-03-18",
         "cases": 1,
@@ -253,7 +253,7 @@
         "deaths": 0
       }
     ],
-    "​Butler": [
+    "Butler": [
       {
         "date": "2020-03-21",
         "cases": 1,
@@ -280,7 +280,7 @@
         "deaths": 0
       }
     ],
-    "​Cambria": [
+    "Cambria": [
       {
         "date": "2020-03-23",
         "cases": 1,
@@ -297,7 +297,7 @@
         "deaths": 0
       }
     ],
-    "​Centre": [
+    "Centre": [
       {
         "date": "2020-03-20",
         "cases": 1,
@@ -391,7 +391,7 @@
         "deaths": 0
       }
     ],
-    "​Columbia": [
+    "Columbia": [
       {
         "date": "2020-03-22",
         "cases": 1,
@@ -475,7 +475,7 @@
         "deaths": 0
       }
     ],
-    "​Dauphin": [
+    "Dauphin": [
       {
         "date": "2020-03-22",
         "cases": 1,
@@ -587,7 +587,7 @@
         "deaths": 0
       }
     ],
-    "​Erie": [
+    "Erie": [
       {
         "date": "2020-03-20",
         "cases": 1,
@@ -619,7 +619,7 @@
         "deaths": 0
       }
     ],
-    "​Fayette": [
+    "Fayette": [
       {
         "date": "2020-03-22",
         "cases": 1,
@@ -641,7 +641,7 @@
         "deaths": 0
       }
     ],
-    "​Franklin": [
+    "Franklin": [
       {
         "date": "2020-03-20",
         "cases": 1,
@@ -673,7 +673,7 @@
         "deaths": 0
       }
     ],
-    "​Lackawanna": [
+    "Lackawanna": [
       {
         "date": "2020-03-18",
         "cases": 1,
@@ -715,7 +715,7 @@
         "deaths": 2
       }
     ],
-    "​Lancaster": [
+    "Lancaster": [
       {
         "date": "2020-03-19",
         "cases": 2,
@@ -752,7 +752,7 @@
         "deaths": 0
       }
     ],
-    "​Lebanon": [
+    "Lebanon": [
       {
         "date": "2020-03-19",
         "cases": 1,
@@ -897,7 +897,7 @@
         "deaths": 1
       }
     ],
-    "​Mercer": [
+    "Mercer": [
       {
         "date": "2020-03-22",
         "cases": 1,
@@ -1083,7 +1083,7 @@
         "deaths": 1
       }
     ],
-    "​Montour": [
+    "Montour": [
       {
         "date": "2020-03-21",
         "cases": 1,
@@ -1316,7 +1316,7 @@
         "deaths": 0
       }
     ],
-    "​Potter": [
+    "Potter": [
       {
         "date": "2020-03-20",
         "cases": 1,
@@ -1348,7 +1348,7 @@
         "deaths": 0
       }
     ],
-    "​Schuylkill": [
+    "Schuylkill": [
       {
         "date": "2020-03-22",
         "cases": 1,
@@ -1522,7 +1522,7 @@
         "deaths": 0
       }
     ],
-    "​Westmoreland": [
+    "Westmoreland": [
       {
         "date": "2020-03-19",
         "cases": 2,
@@ -1588,6 +1588,16 @@
       {
         "date": "2020-03-23",
         "cases": 10,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-24",
+        "cases": 18,
+        "deaths": 0
+      },
+      {
+        "date": "2020-03-25",
+        "cases": 20,
         "deaths": 0
       }
     ],
@@ -1660,18 +1670,6 @@
       {
         "date": "2020-03-25",
         "cases": 2,
-        "deaths": 0
-      }
-    ],
-    "​York": [
-      {
-        "date": "2020-03-24",
-        "cases": 18,
-        "deaths": 0
-      },
-      {
-        "date": "2020-03-25",
-        "cases": 20,
         "deaths": 0
       }
     ],

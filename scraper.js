@@ -23,7 +23,7 @@ async function scrape() {
 		const $ = cheerio.load(html);
 		const tables = $('table.ms-rteTable-default');
 		const testTable = tables.eq(0).find('tr');
-		let countiesTable = tables.eq(1).find('tr');
+		let countiesTable = tables.eq(3).find('tr');
 
 		let testStats = testTable.eq(1).find('td');
 		let testing = {
@@ -85,7 +85,8 @@ function formatCounties(data, date){
 			deaths: el.deaths
 		}
 
-		if(!file.PA.hasOwnProperty(el.county)){
+		el.county = el.county.replace(/[\x00-\x1F\x7F-\x9F]/, "");
+		if(!file.PA[el.county]){
 			file.PA[el.county] = [];
 		}
 		let oldCountyData = file.PA[el.county];

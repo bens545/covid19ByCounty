@@ -93,6 +93,12 @@
       "negative": 11193,
       "positive": 1127,
       "deaths": 11
+    },
+    {
+      "date": "2020-03-26",
+      "negative": 16441,
+      "positive": 1687,
+      "deaths": 16
     }
   ]
 }

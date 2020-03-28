@@ -2452,6 +2452,55 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "Cameron": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Clarion": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Huntingdon": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Mckean": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Perry": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Snyder": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Tioga": [
+      {
+        "date": "2020-03-28",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

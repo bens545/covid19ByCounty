@@ -86,6 +86,7 @@ function formatCounties(data, date){
 		}
 
 		el.county = el.county.replace(/[\x00-\x1F\x7F-\x9F]/, "");
+		el.county = el.county.replace(/[^a-zA-Z0-9]/, "");
 		if(!file.PA[el.county]){
 			file.PA[el.county] = [];
 		}

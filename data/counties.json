@@ -2781,6 +2781,20 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "Mifflin": [
+      {
+        "date": "2020-03-29",
+        "cases": 2,
+        "deaths": 0
+      }
+    ],
+    "Venango": [
+      {
+        "date": "2020-03-29",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

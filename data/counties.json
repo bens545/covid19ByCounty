@@ -3385,6 +3385,13 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "Bedford": [
+      {
+        "date": "2020-03-31",
+        "cases": 2,
+        "deaths": 0
+      }
     ]
   }
 }

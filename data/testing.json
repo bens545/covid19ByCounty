@@ -135,6 +135,12 @@
       "negative": 42427,
       "positive": 5805,
       "deaths": 74
+    },
+    {
+      "date": "2020-04-02",
+      "negative": 42427,
+      "positive": 5805,
+      "deaths": 74
     }
   ]
 }

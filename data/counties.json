@@ -3992,6 +3992,20 @@
         "cases": 3,
         "deaths": 0
       }
+    ],
+    "Forest": [
+      {
+        "date": "2020-04-02",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Wyoming": [
+      {
+        "date": "2020-04-02",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

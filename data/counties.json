@@ -4316,6 +4316,13 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "Clinton": [
+      {
+        "date": "2020-04-03",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

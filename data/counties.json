@@ -4638,6 +4638,20 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "McKean": [
+      {
+        "date": "2020-04-04",
+        "cases": 1,
+        "deaths": 0
+      }
+    ],
+    "Sullivan": [
+      {
+        "date": "2020-04-04",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

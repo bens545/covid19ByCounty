@@ -4972,6 +4972,13 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "Fulton": [
+      {
+        "date": "2020-04-05",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

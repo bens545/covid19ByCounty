@@ -5629,6 +5629,20 @@
         "cases": 1,
         "deaths": 0
       }
+    ],
+    "Elk": [
+      {
+        "date": "2020-04-07",
+        "cases": 2,
+        "deaths": 0
+      }
+    ],
+    "Jefferson": [
+      {
+        "date": "2020-04-07",
+        "cases": 1,
+        "deaths": 0
+      }
     ]
   }
 }

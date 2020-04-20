@@ -39,12 +39,14 @@ async function scrape() {
 			const cells = $(this).find('td');
 			const county = cells.eq(0).text();
 			const cases = numParse(cells.eq(1).text());
-			let deaths = numParse(cells.eq(2).text());
+			const negatives = numParse(cells.eq(2).text());
+			let deaths = numParse(cells.eq(3).text());
 			deaths = _.isNaN(deaths) ? 0 : deaths;
 
 			counties.push({
 				county,
 				cases,
+				negatives,
 				deaths
 			});
 		});
@@ -82,6 +84,7 @@ function formatCounties(data, date){
 		countyData = {
 			date,
 			cases: el.cases,
+			negative: el.negatives,
 			deaths: el.deaths
 		}
 

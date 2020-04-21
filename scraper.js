@@ -94,13 +94,12 @@ function formatCounties(data, date){
 			file.PA[el.county] = [];
 		}
 		let oldCountyData = file.PA[el.county];
-		let oldData = oldCountyData.find(d => d.date === date);
+		let oldDataIndex = oldCountyData.findIndex(d => d.date === date);
 
-		if(oldData){
-			oldData = countyData;
-		} else {
-			oldCountyData.push(countyData);
+		if(oldDataIndex < 0){
+			oldCountyData.splice(oldDataIndex, 1);
 		}
+		oldCountyData.push(countyData);
 	});
 
 	fs.writeFileSync('data/counties.json', JSON.stringify(file, null, 2));

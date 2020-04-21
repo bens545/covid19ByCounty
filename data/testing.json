@@ -243,6 +243,12 @@
       "negative": 126570,
       "positive": 32284,
       "deaths": 1112
+    },
+    {
+      "date": "2020-04-20",
+      "negative": 129720,
+      "positive": 33232,
+      "deaths": 1204
     }
   ]
 }

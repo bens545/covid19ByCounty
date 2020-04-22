@@ -1,5 +1,21 @@
 {
   "PA": {
+    "3049": [
+      {
+        "date": "2020-04-22",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      }
+    ],
+    "5064": [
+      {
+        "date": "2020-04-22",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      }
+    ],
     "Adams": [
       {
         "date": "2020-03-19",
@@ -10197,6 +10213,30 @@
         "date": "2020-04-22",
         "cases": 3,
         "negative": 258,
+        "deaths": 0
+      }
+    ],
+    "0-29": [
+      {
+        "date": "2020-04-22",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      }
+    ],
+    "65-79": [
+      {
+        "date": "2020-04-22",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      }
+    ],
+    "80+": [
+      {
+        "date": "2020-04-22",
+        "cases": null,
+        "negative": null,
         "deaths": 0
       }
     ]

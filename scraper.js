@@ -27,9 +27,9 @@ async function scrape() {
 
 		let testStats = testTable.eq(1).find('td');
 		let testing = {
-			'negative': numParse(testStats.eq(0).text()),
-			'positive': numParse(testStats.eq(1).text()),
-			'deaths': numParse(testStats.eq(2).text())
+			'positive': numParse(testStats.eq(0).text()),
+			'deaths': numParse(testStats.eq(1).text()),
+			'negative': numParse(testStats.eq(2).text())
 		};
 
 		let counties = []; 

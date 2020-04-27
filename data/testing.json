@@ -258,33 +258,33 @@
     },
     {
       "date": "2020-04-22",
-      "negative": 35684,
-      "positive": 1622,
-      "deaths": 136272
+      "positive": 35684,
+      "deaths": 1622,
+      "negative": 136272
     },
     {
       "date": "2020-04-23",
-      "negative": 37053,
-      "positive": 1421,
-      "deaths": 142061
+      "positive": 37053,
+      "deaths": 1421,
+      "negative": 142061
     },
     {
       "date": "2020-04-24",
-      "negative": 38652,
-      "positive": 1492,
-      "deaths": 147491
+      "positive": 38652,
+      "deaths": 1492,
+      "negative": 147491
     },
     {
       "date": "2020-04-25",
-      "negative": 40049,
-      "positive": 1537,
-      "deaths": 152886
+      "positive": 40049,
+      "deaths": 1537,
+      "negative": 152886
     },
     {
       "date": "2020-04-26",
-      "negative": 41165,
-      "positive": 1550,
-      "deaths": 157428
+      "positive": 41165,
+      "deaths": 1550,
+      "negative": 157428
     }
   ]
 }

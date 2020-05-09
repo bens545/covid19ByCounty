@@ -366,6 +366,12 @@
         "cases": 156,
         "negative": 1812,
         "deaths": 5
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 156,
+        "negative": 1812,
+        "deaths": 5
       }
     ],
     "Allegheny": [
@@ -755,6 +761,12 @@
         "cases": 1486,
         "negative": 19342,
         "deaths": 120
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 1486,
+        "negative": 19342,
+        "deaths": 120
       }
     ],
     "Beaver": [
@@ -1132,6 +1144,12 @@
         "cases": 482,
         "negative": 2406,
         "deaths": 78
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 482,
+        "negative": 2406,
+        "deaths": 78
       }
     ],
     "Berks": [
@@ -1499,6 +1517,12 @@
         "cases": 3190,
         "negative": 6713,
         "deaths": 168
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 3257,
+        "negative": 6920,
+        "deaths": 169
       },
       {
         "date": "2020-05-09",
@@ -1906,6 +1930,12 @@
         "cases": 3852,
         "negative": 10779,
         "deaths": 336
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 3852,
+        "negative": 10779,
+        "deaths": 336
       }
     ],
     "Butler": [
@@ -2264,6 +2294,12 @@
         "cases": 194,
         "negative": 2722,
         "deaths": 6
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 194,
+        "negative": 2722,
+        "deaths": 6
       }
     ],
     "Cambria": [
@@ -2605,6 +2641,12 @@
         "date": "2020-05-09",
         "cases": 40,
         "negative": 1785,
+        "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 42,
+        "negative": 1860,
         "deaths": 1
       },
       {
@@ -2969,6 +3011,12 @@
         "cases": 117,
         "negative": 1173,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 117,
+        "negative": 1217,
+        "deaths": 2
       },
       {
         "date": "2020-05-09",
@@ -3368,6 +3416,12 @@
         "cases": 1774,
         "negative": 6644,
         "deaths": 183
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 1774,
+        "negative": 6644,
+        "deaths": 183
       }
     ],
     "Columbia": [
@@ -3715,6 +3769,12 @@
         "cases": 307,
         "negative": 782,
         "deaths": 20
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 323,
+        "negative": 818,
+        "deaths": 28
       },
       {
         "date": "2020-05-09",
@@ -4114,6 +4174,12 @@
         "cases": 425,
         "negative": 2040,
         "deaths": 33
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 425,
+        "negative": 2040,
+        "deaths": 33
       }
     ],
     "Dauphin": [
@@ -4461,6 +4527,12 @@
         "cases": 764,
         "negative": 4550,
         "deaths": 37
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 797,
+        "negative": 4663,
+        "deaths": 36
       },
       {
         "date": "2020-05-09",
@@ -4888,6 +4960,12 @@
         "cases": 4836,
         "negative": 11455,
         "deaths": 394
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 4836,
+        "negative": 11455,
+        "deaths": 394
       }
     ],
     "Erie": [
@@ -5251,6 +5329,12 @@
         "cases": 120,
         "negative": 2557,
         "deaths": 2
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 120,
+        "negative": 2557,
+        "deaths": 2
       }
     ],
     "Fayette": [
@@ -5597,6 +5681,12 @@
         "date": "2020-05-09",
         "cases": 84,
         "negative": 2130,
+        "deaths": 4
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 85,
+        "negative": 2148,
         "deaths": 4
       },
       {
@@ -5961,6 +6051,12 @@
         "cases": 452,
         "negative": 3475,
         "deaths": 11
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 478,
+        "negative": 3566,
+        "deaths": 12
       },
       {
         "date": "2020-05-09",
@@ -6340,6 +6436,12 @@
         "cases": 1134,
         "negative": 3246,
         "deaths": 115
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 1134,
+        "negative": 3246,
+        "deaths": 115
       }
     ],
     "Lancaster": [
@@ -6708,6 +6810,12 @@
         "cases": 2185,
         "negative": 9537,
         "deaths": 166
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 2185,
+        "negative": 9537,
+        "deaths": 166
       }
     ],
     "Lebanon": [
@@ -7069,6 +7177,12 @@
         "date": "2020-05-09",
         "cases": 797,
         "negative": 3055,
+        "deaths": 16
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 805,
+        "negative": 3134,
         "deaths": 16
       },
       {
@@ -7461,6 +7575,12 @@
         "cases": 3169,
         "negative": 8682,
         "deaths": 120
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 3169,
+        "negative": 8682,
+        "deaths": 120
       }
     ],
     "Luzerne": [
@@ -7846,6 +7966,12 @@
         "cases": 2356,
         "negative": 6305,
         "deaths": 111
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 2356,
+        "negative": 6305,
+        "deaths": 111
       }
     ],
     "Mercer": [
@@ -8192,6 +8318,12 @@
         "date": "2020-05-09",
         "cases": 70,
         "negative": 900,
+        "deaths": 2
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 73,
+        "negative": 918,
         "deaths": 2
       },
       {
@@ -8601,6 +8733,12 @@
         "date": "2020-05-09",
         "cases": 1198,
         "negative": 3249,
+        "deaths": 63
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 1206,
+        "negative": 3330,
         "deaths": 63
       },
       {
@@ -9025,6 +9163,12 @@
         "cases": 5116,
         "negative": 20557,
         "deaths": 523
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 5116,
+        "negative": 20557,
+        "deaths": 523
       }
     ],
     "Montour": [
@@ -9376,6 +9520,12 @@
         "date": "2020-05-09",
         "cases": 50,
         "negative": 2983,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 49,
+        "negative": 2991,
         "deaths": 0
       },
       {
@@ -9774,6 +9924,12 @@
         "cases": 2390,
         "negative": 7500,
         "deaths": 153
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 2429,
+        "negative": 7718,
+        "deaths": 158
       },
       {
         "date": "2020-05-09",
@@ -10185,6 +10341,12 @@
         "cases": 14637,
         "negative": 35203,
         "deaths": 856
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 14637,
+        "negative": 35203,
+        "deaths": 856
       }
     ],
     "Pike": [
@@ -10582,6 +10744,12 @@
         "cases": 427,
         "negative": 1456,
         "deaths": 21
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 427,
+        "negative": 1456,
+        "deaths": 21
       }
     ],
     "Potter": [
@@ -10945,6 +11113,12 @@
         "cases": 4,
         "negative": 98,
         "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 4,
+        "negative": 98,
+        "deaths": 0
       }
     ],
     "Schuylkill": [
@@ -11291,6 +11465,12 @@
         "date": "2020-05-09",
         "cases": 430,
         "negative": 2479,
+        "deaths": 13
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 437,
+        "negative": 2547,
         "deaths": 13
       },
       {
@@ -11684,6 +11864,12 @@
         "date": "2020-05-09",
         "cases": 121,
         "negative": 2595,
+        "deaths": 4
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 124,
+        "negative": 2653,
         "deaths": 4
       },
       {
@@ -12112,6 +12298,12 @@
         "cases": 116,
         "negative": 631,
         "deaths": 5
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 116,
+        "negative": 631,
+        "deaths": 5
       }
     ],
     "Westmoreland": [
@@ -12473,6 +12665,12 @@
         "date": "2020-05-09",
         "cases": 413,
         "negative": 5645,
+        "deaths": 30
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 415,
+        "negative": 5769,
         "deaths": 30
       },
       {
@@ -12853,6 +13051,12 @@
         "cases": 767,
         "negative": 8500,
         "deaths": 13
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 767,
+        "negative": 8500,
+        "deaths": 13
       }
     ],
     "Armstrong": [
@@ -13189,6 +13393,12 @@
         "date": "2020-05-09",
         "cases": 55,
         "negative": 819,
+        "deaths": 3
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 55,
+        "negative": 835,
         "deaths": 3
       },
       {
@@ -13539,6 +13749,12 @@
         "cases": 38,
         "negative": 891,
         "deaths": 2
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 38,
+        "negative": 891,
+        "deaths": 2
       }
     ],
     "Carbon": [
@@ -13875,6 +14091,12 @@
         "date": "2020-05-09",
         "cases": 192,
         "negative": 1260,
+        "deaths": 16
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 195,
+        "negative": 1322,
         "deaths": 16
       },
       {
@@ -14225,6 +14447,12 @@
         "cases": 24,
         "negative": 578,
         "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 24,
+        "negative": 578,
+        "deaths": 0
       }
     ],
     "Juniata": [
@@ -14561,6 +14789,12 @@
         "date": "2020-05-09",
         "cases": 93,
         "negative": 196,
+        "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 93,
+        "negative": 203,
         "deaths": 1
       },
       {
@@ -14911,6 +15145,12 @@
         "cases": 32,
         "negative": 857,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 32,
+        "negative": 857,
+        "deaths": 1
       }
     ],
     "Greene": [
@@ -15242,6 +15482,12 @@
         "date": "2020-05-09",
         "cases": 27,
         "negative": 511,
+        "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 27,
+        "negative": 517,
         "deaths": 1
       },
       {
@@ -15587,6 +15833,12 @@
         "cases": 69,
         "negative": 889,
         "deaths": 7
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 69,
+        "negative": 889,
+        "deaths": 7
       }
     ],
     "Lycoming": [
@@ -15918,6 +16170,12 @@
         "date": "2020-05-09",
         "cases": 109,
         "negative": 1337,
+        "deaths": 4
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 127,
+        "negative": 1383,
         "deaths": 4
       },
       {
@@ -16263,6 +16521,12 @@
         "cases": 1,
         "negative": 203,
         "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 1,
+        "negative": 203,
+        "deaths": 0
       }
     ],
     "Blair": [
@@ -16589,6 +16853,12 @@
         "date": "2020-05-09",
         "cases": 28,
         "negative": 1314,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 28,
+        "negative": 1377,
         "deaths": 0
       },
       {
@@ -16929,6 +17199,12 @@
         "cases": 20,
         "negative": 749,
         "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 20,
+        "negative": 749,
+        "deaths": 0
       }
     ],
     "Indiana": [
@@ -17255,6 +17531,12 @@
         "date": "2020-05-09",
         "cases": 75,
         "negative": 860,
+        "deaths": 5
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 76,
+        "negative": 871,
         "deaths": 5
       },
       {
@@ -17595,6 +17877,12 @@
         "cases": 81,
         "negative": 385,
         "deaths": 13
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 81,
+        "negative": 385,
+        "deaths": 13
       }
     ],
     "Northumberland": [
@@ -17916,6 +18204,12 @@
         "date": "2020-05-09",
         "cases": 118,
         "negative": 777,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 119,
+        "negative": 810,
         "deaths": 0
       },
       {
@@ -18246,6 +18540,12 @@
         "cases": 40,
         "negative": 651,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 40,
+        "negative": 651,
+        "deaths": 1
       }
     ],
     "Cameron": [
@@ -18562,6 +18862,12 @@
         "date": "2020-05-09",
         "cases": 2,
         "negative": 76,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 2,
+        "negative": 79,
         "deaths": 0
       },
       {
@@ -18892,6 +19198,12 @@
         "cases": 23,
         "negative": 548,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 23,
+        "negative": 548,
+        "deaths": 1
       }
     ],
     "Huntingdon": [
@@ -19208,6 +19520,12 @@
         "date": "2020-05-09",
         "cases": 117,
         "negative": 409,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 119,
+        "negative": 435,
         "deaths": 0
       },
       {
@@ -19580,6 +19898,12 @@
         "cases": 34,
         "negative": 350,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 34,
+        "negative": 350,
+        "deaths": 1
       }
     ],
     "Snyder": [
@@ -19896,6 +20220,12 @@
         "date": "2020-05-09",
         "cases": 33,
         "negative": 250,
+        "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 33,
+        "negative": 254,
         "deaths": 1
       },
       {
@@ -20226,6 +20556,12 @@
         "cases": 16,
         "negative": 340,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 16,
+        "negative": 340,
+        "deaths": 1
       }
     ],
     "Mifflin": [
@@ -20537,6 +20873,12 @@
         "date": "2020-05-09",
         "cases": 50,
         "negative": 807,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 50,
+        "negative": 832,
         "deaths": 0
       },
       {
@@ -20862,6 +21204,12 @@
         "cases": 7,
         "negative": 294,
         "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 7,
+        "negative": 294,
+        "deaths": 0
       }
     ],
     "Bedford": [
@@ -21170,6 +21518,12 @@
         "cases": 29,
         "negative": 319,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 29,
+        "negative": 319,
+        "deaths": 1
       }
     ],
     "Forest": [
@@ -21461,6 +21815,12 @@
         "date": "2020-05-09",
         "cases": 7,
         "negative": 33,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 7,
+        "negative": 35,
         "deaths": 0
       },
       {
@@ -21766,6 +22126,12 @@
         "cases": 30,
         "negative": 229,
         "deaths": 2
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 30,
+        "negative": 229,
+        "deaths": 2
       }
     ],
     "Clinton": [
@@ -22052,6 +22418,12 @@
         "date": "2020-05-09",
         "cases": 37,
         "negative": 316,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 41,
+        "negative": 335,
         "deaths": 0
       },
       {
@@ -22347,6 +22719,12 @@
         "cases": 6,
         "negative": 229,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 6,
+        "negative": 229,
+        "deaths": 1
       }
     ],
     "Sullivan": [
@@ -22628,6 +23006,12 @@
         "date": "2020-05-09",
         "cases": 1,
         "negative": 48,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 1,
+        "negative": 51,
         "deaths": 0
       },
       {
@@ -22918,6 +23302,12 @@
         "cases": 8,
         "negative": 127,
         "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 8,
+        "negative": 127,
+        "deaths": 0
       }
     ],
     "Elk": [
@@ -23191,6 +23581,12 @@
         "cases": 5,
         "negative": 214,
         "deaths": 1
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 5,
+        "negative": 214,
+        "deaths": 1
       }
     ],
     "Jefferson": [
@@ -23457,6 +23853,12 @@
         "date": "2020-05-09",
         "cases": 7,
         "negative": 368,
+        "deaths": 0
+      },
+      {
+        "date": "2020-05-09",
+        "cases": 7,
+        "negative": 375,
         "deaths": 0
       },
       {

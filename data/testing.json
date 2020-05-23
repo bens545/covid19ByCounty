@@ -441,6 +441,12 @@
       "positive": 65392,
       "deaths": 4869,
       "negative": 303514
+    },
+    {
+      "date": "2020-05-23",
+      "positive": 66258,
+      "deaths": 4984,
+      "negative": 312743
     }
   ]
 }

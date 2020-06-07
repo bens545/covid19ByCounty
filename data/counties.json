@@ -33306,6 +33306,12 @@
         "cases": null,
         "negative": null,
         "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
       }
     ],
     "5-12": [
@@ -33485,6 +33491,12 @@
       },
       {
         "date": "2020-06-06",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
         "cases": null,
         "negative": null,
         "deaths": 0
@@ -33694,6 +33706,12 @@
         "cases": null,
         "negative": null,
         "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
       }
     ],
     "19-24": [
@@ -33873,6 +33891,12 @@
       },
       {
         "date": "2020-06-06",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
         "cases": null,
         "negative": null,
         "deaths": 0
@@ -34082,6 +34106,12 @@
         "cases": null,
         "negative": null,
         "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
       }
     ],
     "50-64": [
@@ -34276,6 +34306,12 @@
         "cases": null,
         "negative": null,
         "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
       }
     ],
     "            ​65+": [
@@ -34445,6 +34481,12 @@
       },
       {
         "date": "2020-06-06",
+        "cases": null,
+        "negative": null,
+        "deaths": 0
+      },
+      {
+        "date": "2020-06-07",
         "cases": null,
         "negative": null,
         "deaths": 0

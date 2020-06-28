@@ -657,6 +657,12 @@
       "positive": 50,
       "deaths": 28,
       "negative": 6
+    },
+    {
+      "date": "2020-06-28",
+      "positive": 50,
+      "deaths": 28,
+      "negative": 6
     }
   ]
 }

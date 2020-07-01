@@ -675,6 +675,12 @@
       "positive": 50,
       "deaths": 30,
       "negative": 7
+    },
+    {
+      "date": "2020-07-01",
+      "positive": 50,
+      "deaths": 30,
+      "negative": 7
     }
   ]
 }

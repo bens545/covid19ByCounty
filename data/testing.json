@@ -690,9 +690,9 @@
     },
     {
       "date": "2020-07-03",
-      "positive": null,
-      "deaths": null,
-      "negative": null
+      "positive": 52,
+      "deaths": 30,
+      "negative": 7
     }
   ]
 }

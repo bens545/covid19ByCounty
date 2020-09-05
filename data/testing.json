@@ -1071,6 +1071,12 @@
       "positive": 80,
       "deaths": 48,
       "negative": 12
+    },
+    {
+      "date": "2020-09-05",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
     }
   ]
 }

@@ -1359,6 +1359,12 @@
       "positive": 90,
       "deaths": 53,
       "negative": 19
+    },
+    {
+      "date": "2020-10-23",
+      "positive": 90,
+      "deaths": 53,
+      "negative": 19
     }
   ]
 }

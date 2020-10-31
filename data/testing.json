@@ -1407,6 +1407,12 @@
       "positive": 92,
       "deaths": 54,
       "negative": 19
+    },
+    {
+      "date": "2020-10-31",
+      "positive": null,
+      "deaths": null,
+      "negative": null
     }
   ]
 }

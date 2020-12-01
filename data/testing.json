@@ -1593,6 +1593,12 @@
       "positive": null,
       "deaths": null,
       "negative": null
+    },
+    {
+      "date": "2020-12-01",
+      "positive": null,
+      "deaths": null,
+      "negative": null
     }
   ]
 }

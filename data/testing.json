@@ -285,6 +285,1440 @@
       "positive": 41165,
       "deaths": 1550,
       "negative": 157428
+    },
+    {
+      "date": "2020-04-27",
+      "positive": 42050,
+      "deaths": 1597,
+      "negative": 161372
+    },
+    {
+      "date": "2020-04-28",
+      "positive": 43264,
+      "deaths": 1716,
+      "negative": 165824
+    },
+    {
+      "date": "2020-04-29",
+      "positive": 44366,
+      "deaths": 2195,
+      "negative": 170517
+    },
+    {
+      "date": "2020-04-30",
+      "positive": 45763,
+      "deaths": 2292,
+      "negative": 175602
+    },
+    {
+      "date": "2020-05-01",
+      "positive": 46971,
+      "deaths": 2354,
+      "negative": 180477
+    },
+    {
+      "date": "2020-05-02",
+      "positive": 48305,
+      "deaths": 2418,
+      "negative": 187071
+    },
+    {
+      "date": "2020-05-03",
+      "positive": 49267,
+      "deaths": 2444,
+      "negative": 191374
+    },
+    {
+      "date": "2020-05-04",
+      "positive": 50092,
+      "deaths": 2458,
+      "negative": 195498
+    },
+    {
+      "date": "2020-05-05",
+      "positive": 50957,
+      "deaths": 3012,
+      "negative": 199925
+    },
+    {
+      "date": "2020-05-06",
+      "positive": 51845,
+      "deaths": 3106,
+      "negative": 204495
+    },
+    {
+      "date": "2020-05-07",
+      "positive": 52915,
+      "deaths": 3416,
+      "negative": 209873
+    },
+    {
+      "date": "2020-05-08",
+      "positive": 54238,
+      "deaths": 3616,
+      "negative": 216321
+    },
+    {
+      "date": "2020-05-09",
+      "positive": 55316,
+      "deaths": 3688,
+      "negative": 221791
+    },
+    {
+      "date": "2020-05-10",
+      "positive": 56611,
+      "deaths": 3707,
+      "negative": 227772
+    },
+    {
+      "date": "2020-05-11",
+      "positive": 57154,
+      "deaths": 3731,
+      "negative": 231704
+    },
+    {
+      "date": "2020-05-12",
+      "positive": 57991,
+      "deaths": 3806,
+      "negative": 237989
+    },
+    {
+      "date": "2020-05-13",
+      "positive": 58698,
+      "deaths": 3943,
+      "negative": 244171
+    },
+    {
+      "date": "2020-05-14",
+      "positive": 59636,
+      "deaths": 4218,
+      "negative": 251559
+    },
+    {
+      "date": "2020-05-15",
+      "positive": 60622,
+      "deaths": 4342,
+      "negative": 259210
+    },
+    {
+      "date": "2020-05-16",
+      "positive": 61611,
+      "deaths": 4403,
+      "negative": 266225
+    },
+    {
+      "date": "2020-05-17",
+      "positive": 62234,
+      "deaths": 4418,
+      "negative": 270670
+    },
+    {
+      "date": "2020-05-18",
+      "positive": 63056,
+      "deaths": 4505,
+      "negative": 277553
+    },
+    {
+      "date": "2020-05-19",
+      "positive": 63666,
+      "deaths": 4624,
+      "negative": 286034
+    },
+    {
+      "date": "2020-05-20",
+      "positive": 63666,
+      "deaths": 4624,
+      "negative": 286034
+    },
+    {
+      "date": "2020-05-21",
+      "positive": 65392,
+      "deaths": 4869,
+      "negative": 303514
+    },
+    {
+      "date": "2020-05-22",
+      "positive": 65392,
+      "deaths": 4869,
+      "negative": 303514
+    },
+    {
+      "date": "2020-05-23",
+      "positive": 66983,
+      "deaths": 5096,
+      "negative": 321469
+    },
+    {
+      "date": "2020-05-24",
+      "positive": 67713,
+      "deaths": 5124,
+      "negative": 328382
+    },
+    {
+      "date": "2020-05-25",
+      "positive": 68186,
+      "deaths": 5139,
+      "negative": 334928
+    },
+    {
+      "date": "2020-05-26",
+      "positive": 68637,
+      "deaths": 5152,
+      "negative": 339835
+    },
+    {
+      "date": "2020-05-27",
+      "positive": 69417,
+      "deaths": 5265,
+      "negative": 349990
+    },
+    {
+      "date": "2020-05-28",
+      "positive": 70042,
+      "deaths": 5373,
+      "negative": 357804
+    },
+    {
+      "date": "2020-05-29",
+      "positive": 70735,
+      "deaths": 5464,
+      "negative": 366970
+    },
+    {
+      "date": "2020-05-30",
+      "positive": 71415,
+      "deaths": 5537,
+      "negative": 375731
+    },
+    {
+      "date": "2020-05-31",
+      "positive": 71926,
+      "deaths": 5555,
+      "negative": 383111
+    },
+    {
+      "date": "2020-06-01",
+      "positive": 72282,
+      "deaths": 5567,
+      "negative": 389431
+    },
+    {
+      "date": "2020-06-02",
+      "positive": 72894,
+      "deaths": 5667,
+      "negative": 399361
+    },
+    {
+      "date": "2020-06-03",
+      "positive": 73405,
+      "deaths": 5742,
+      "negative": 408269
+    },
+    {
+      "date": "2020-06-04",
+      "positive": 73942,
+      "deaths": 5817,
+      "negative": 416942
+    },
+    {
+      "date": "2020-06-05",
+      "positive": 74385,
+      "deaths": 5886,
+      "negative": 424201
+    },
+    {
+      "date": "2020-06-06",
+      "positive": 75086,
+      "deaths": 5931,
+      "negative": 435122
+    },
+    {
+      "date": "2020-06-07",
+      "positive": 75592,
+      "deaths": 5943,
+      "negative": 444173
+    },
+    {
+      "date": "2020-06-08",
+      "positive": 40,
+      "deaths": 20,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-09",
+      "positive": 40,
+      "deaths": 20,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-10",
+      "positive": 42,
+      "deaths": 21,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-11",
+      "positive": 42,
+      "deaths": 21,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-12",
+      "positive": 43,
+      "deaths": 21,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-13",
+      "positive": 43,
+      "deaths": 21,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-14",
+      "positive": 43,
+      "deaths": 21,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-15",
+      "positive": 43,
+      "deaths": 21,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-16",
+      "positive": 44,
+      "deaths": 22,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-17",
+      "positive": 46,
+      "deaths": 25,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-18",
+      "positive": 46,
+      "deaths": 25,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-19",
+      "positive": 46,
+      "deaths": 25,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-20",
+      "positive": 46,
+      "deaths": 25,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-21",
+      "positive": 46,
+      "deaths": 25,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-22",
+      "positive": 47,
+      "deaths": 25,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-23",
+      "positive": 49,
+      "deaths": 26,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-24",
+      "positive": 49,
+      "deaths": 26,
+      "negative": 7
+    },
+    {
+      "date": "2020-06-25",
+      "positive": 50,
+      "deaths": 26,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-26",
+      "positive": 50,
+      "deaths": 27,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-27",
+      "positive": 50,
+      "deaths": 28,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-28",
+      "positive": 50,
+      "deaths": 28,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-29",
+      "positive": 50,
+      "deaths": 28,
+      "negative": 6
+    },
+    {
+      "date": "2020-06-30",
+      "positive": 50,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-01",
+      "positive": 52,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-02",
+      "positive": 52,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-03",
+      "positive": 52,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-04",
+      "positive": 52,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-05",
+      "positive": 53,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-06",
+      "positive": 53,
+      "deaths": 30,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-07",
+      "positive": 55,
+      "deaths": 31,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-08",
+      "positive": 57,
+      "deaths": 34,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-09",
+      "positive": 58,
+      "deaths": 34,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-10",
+      "positive": 58,
+      "deaths": 34,
+      "negative": 7
+    },
+    {
+      "date": "2020-07-11",
+      "positive": 59,
+      "deaths": 34,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-12",
+      "positive": 59,
+      "deaths": 34,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-13",
+      "positive": 59,
+      "deaths": 34,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-14",
+      "positive": 59,
+      "deaths": 34,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-15",
+      "positive": 59,
+      "deaths": 35,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-16",
+      "positive": 59,
+      "deaths": 35,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-17",
+      "positive": 60,
+      "deaths": 35,
+      "negative": 8
+    },
+    {
+      "date": "2020-07-18",
+      "positive": 61,
+      "deaths": 35,
+      "negative": 9
+    },
+    {
+      "date": "2020-07-19",
+      "positive": 61,
+      "deaths": 35,
+      "negative": 9
+    },
+    {
+      "date": "2020-07-20",
+      "positive": 61,
+      "deaths": 35,
+      "negative": 9
+    },
+    {
+      "date": "2020-07-21",
+      "positive": 63,
+      "deaths": 35,
+      "negative": 9
+    },
+    {
+      "date": "2020-07-22",
+      "positive": 63,
+      "deaths": 36,
+      "negative": 9
+    },
+    {
+      "date": "2020-07-23",
+      "positive": 63,
+      "deaths": 36,
+      "negative": 10
+    },
+    {
+      "date": "2020-07-24",
+      "positive": 63,
+      "deaths": 36,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-25",
+      "positive": 66,
+      "deaths": 37,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-26",
+      "positive": 66,
+      "deaths": 37,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-27",
+      "positive": 66,
+      "deaths": 37,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-28",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-29",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-30",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 11
+    },
+    {
+      "date": "2020-07-31",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-01",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-02",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-03",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-04",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-05",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-06",
+      "positive": 67,
+      "deaths": 39,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-07",
+      "positive": 68,
+      "deaths": 40,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-08",
+      "positive": 68,
+      "deaths": 40,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-09",
+      "positive": 68,
+      "deaths": 40,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-10",
+      "positive": 68,
+      "deaths": 40,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-11",
+      "positive": 69,
+      "deaths": 41,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-12",
+      "positive": 69,
+      "deaths": 41,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-13",
+      "positive": 73,
+      "deaths": 42,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-14",
+      "positive": 73,
+      "deaths": 42,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-15",
+      "positive": 73,
+      "deaths": 42,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-16",
+      "positive": 73,
+      "deaths": 42,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-17",
+      "positive": 73,
+      "deaths": 42,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-18",
+      "positive": 74,
+      "deaths": 43,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-19",
+      "positive": 74,
+      "deaths": 43,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-20",
+      "positive": 74,
+      "deaths": 43,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-21",
+      "positive": 74,
+      "deaths": 43,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-22",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-23",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-24",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-25",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-26",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-27",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-28",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-29",
+      "positive": 75,
+      "deaths": 44,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-30",
+      "positive": 78,
+      "deaths": 45,
+      "negative": 12
+    },
+    {
+      "date": "2020-08-31",
+      "positive": 78,
+      "deaths": 45,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-01",
+      "positive": 78,
+      "deaths": 45,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-02",
+      "positive": 78,
+      "deaths": 45,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-03",
+      "positive": 78,
+      "deaths": 45,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-04",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-05",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-06",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-07",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-08",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-09",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-10",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-11",
+      "positive": 80,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-12",
+      "positive": 81,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-13",
+      "positive": 81,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-14",
+      "positive": 81,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-15",
+      "positive": 81,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-16",
+      "positive": 81,
+      "deaths": 48,
+      "negative": 12
+    },
+    {
+      "date": "2020-09-17",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-18",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-19",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-20",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-21",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-22",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-23",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-24",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-25",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-26",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-27",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-28",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-29",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-09-30",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-01",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-02",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-03",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-04",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-05",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-06",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-07",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-08",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-09",
+      "positive": 84,
+      "deaths": 49,
+      "negative": 13
+    },
+    {
+      "date": "2020-10-10",
+      "positive": 85,
+      "deaths": 51,
+      "negative": 17
+    },
+    {
+      "date": "2020-10-11",
+      "positive": 85,
+      "deaths": 51,
+      "negative": 17
+    },
+    {
+      "date": "2020-10-12",
+      "positive": 85,
+      "deaths": 51,
+      "negative": 17
+    },
+    {
+      "date": "2020-10-13",
+      "positive": 85,
+      "deaths": 51,
+      "negative": 17
+    },
+    {
+      "date": "2020-10-14",
+      "positive": 85,
+      "deaths": 51,
+      "negative": 17
+    },
+    {
+      "date": "2020-10-15",
+      "positive": 85,
+      "deaths": 51,
+      "negative": 17
+    },
+    {
+      "date": "2020-10-16",
+      "positive": 88,
+      "deaths": 51,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-17",
+      "positive": 88,
+      "deaths": 51,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-18",
+      "positive": 88,
+      "deaths": 51,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-19",
+      "positive": 88,
+      "deaths": 51,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-20",
+      "positive": 89,
+      "deaths": 51,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-21",
+      "positive": 89,
+      "deaths": 51,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-22",
+      "positive": 90,
+      "deaths": 53,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-23",
+      "positive": 90,
+      "deaths": 53,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-24",
+      "positive": 90,
+      "deaths": 53,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-25",
+      "positive": 90,
+      "deaths": 53,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-26",
+      "positive": 90,
+      "deaths": 53,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-27",
+      "positive": 92,
+      "deaths": 54,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-28",
+      "positive": 92,
+      "deaths": 54,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-29",
+      "positive": 92,
+      "deaths": 54,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-30",
+      "positive": 92,
+      "deaths": 54,
+      "negative": 19
+    },
+    {
+      "date": "2020-10-31",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-01",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-02",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-03",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-04",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-05",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-06",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-07",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-08",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-09",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-10",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-11",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-12",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-13",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-14",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-15",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-16",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-17",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-18",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-19",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-20",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-21",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-22",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-23",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-24",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-25",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-26",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-27",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-28",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-29",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-11-30",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-01",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-02",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-03",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-04",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-05",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-06",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-07",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-08",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-09",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-10",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-11",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-12",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-13",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-14",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-15",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-16",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-17",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-18",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-19",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-20",
+      "positive": null,
+      "deaths": null,
+      "negative": null
+    },
+    {
+      "date": "2020-12-21",
+      "positive": null,
+      "deaths": null,
+      "negative": null
     }
   ]
 }

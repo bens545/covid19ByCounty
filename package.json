@@ -14,6 +14,6 @@
     "cldr-data": "^36.0.0",
     "globalize": "^1.4.3",
     "lodash": "^4.17.15",
-    "moment-timezone": "^0.5.28"
+    "moment-timezone": "^0.5.35"
   }
 }
